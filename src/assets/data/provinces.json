@@ -1,0 +1,80 @@
+{
+  "AB": {
+    "name": "Alberta",
+    "slug": "alberta",
+    "lat": "53.5464907227571",
+    "lng": "-113.514716164975"
+  },
+  "BC": {
+    "name": "British Columbia",
+    "slug": "british-columbia",
+    "lat": "48.4584648992129",
+    "lng": "-123.371989650858"
+  },
+  "MB": {
+    "name": "Manitoba",
+    "slug": "manitoba",
+    "lat": "49.8791532300569",
+    "lng": "-97.1467546248571"
+  },
+  "NB": {
+    "name": "New Brunswick",
+    "slug": "new-brunswick",
+    "lat": "46.0941253940153",
+    "lng": "-64.784127240172"
+  },
+  "NL": {
+    "name": "Newfoundland and Labrador",
+    "slug": "newfoundland-and-labrador",
+    "lat": "47.5631924579031",
+    "lng": "-52.7385113196754"
+  },
+  "NS": {
+    "name": "Nova Scotia",
+    "slug": "nova-scotia",
+    "lat": "44.6613097137056",
+    "lng": "-63.6256892652441"
+  },
+  "NT": {
+    "name": "Northwest Territories",
+    "slug": "northwest-territories",
+    "lat": "62.4540",
+    "lng": "-114.3718"
+  },
+  "NU": {
+    "name": "Nunavut",
+    "slug": "nunavut",
+    "lat": "63.7467",
+    "lng": "-68.5170"
+  },
+  "ON": {
+    "name": "Ontario",
+    "slug": "ontario",
+    "lat": "43.6804930540236",
+    "lng": "-79.3823128966121"
+  },
+  "PE": {
+    "name": "Prince Edward Island",
+    "slug": "prince-edward-island",
+    "lat": "46.2453812919724",
+    "lng": "-63.1343607523277"
+  },
+  "QC": {
+    "name": "Quebec",
+    "slug": "quebec",
+    "lat": "46.8131687407243",
+    "lng": "-71.2603770945191"
+  },
+  "SK": {
+    "name": "Saskatchewan",
+    "slug": "saskatchewan",
+    "lat": "52.150391",
+    "lng": "-106.8044928"
+  },
+  "YT": {
+    "name": "Yukon",
+    "slug": "yukon",
+    "lat": "60.7212",
+    "lng": "-135.0568"
+  }
+}

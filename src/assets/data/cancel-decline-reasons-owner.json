@@ -1,0 +1,41 @@
+{
+  "MyRvIsNotAvailableForRentOnTheRequestedDates": [
+    "BookedElsewhere",
+    "PersonalUse",
+    "AmNotAvailableToReleaseOrReturnRv",
+    "Other"
+  ],
+
+  "HaveConcernsWithThisRenter": [
+    "PreferAnotherRenterOnRvezy",
+    "DontFeelComfortableWithThePeopleGoingOnTheTrip",
+    "RenterIsTakingMyRvTooFar",
+    "RenterIsTakingMyRvOnRoadThatIsUnfitForRvTravel",
+    "RenterIsTakingMyRvToFestivalOrEvent",
+    "MinimumRentalDaysNotMet",
+    "NoLongerRentingForTwoDayTrips",
+    "NotComfortableRenterExperience",
+    "Other"
+  ],
+
+  "MyRvIsNotFitForTheRoad": [
+    "HaveMechanicalIssues",
+    "MyRvWasDamagedOnMyLastRental",
+    "BrokenWindshield",
+    "BrokenAwning",
+    "ExteriorDamage",
+    "Other"
+  ],
+
+  "TheGuestWantsToCancel": [],
+
+  "ThisRvHasBeenSoldOrWillBeSold": [],
+
+  "ExtenuatingCircumstances": [
+    "NaturalDisaster",
+    "MedicalIssues",
+    "Other"
+  ],
+
+  "OwnerOther": []
+}

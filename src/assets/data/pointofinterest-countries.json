@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "6207d354-e321-4f14-902d-df1b758e8eaa",
+    "Name": "Canada",
+    "FullName": "Canada",
+    "CanonicalPath": "canada",
+    "ParentId": null,
+    "Component": "Country",
+    "Coordinates": { "Latitude": 56.13037, "Longitude": -106.34677 },
+    "Bounds": { "North": 70, "East": -50, "South": 42, "West": -142 },
+    "DistanceKM": null,
+    "Attributes": { "GooglePlaceId": "ChIJ2WrMN9MDDUsRpY9Doiq3aJk", "Abbreviation": "CA", "RegionType": "province" },
+    "CanonicalPaths": { "en": "canada", "fr": "canada" }
+  },
+  {
+    "Id": "7e7ae79d-b6dd-4c59-96cf-8a20c926ed1d",
+    "Name": "United States",
+    "FullName": "United States",
+    "CanonicalPath": "united-states",
+    "ParentId": null,
+    "Component": "Country",
+    "Coordinates": { "Latitude": 37.09024, "Longitude": -95.71289 },
+    "Bounds": { "North": 49.38, "East": -66.94, "South": 25.82, "West": -124.39 },
+    "DistanceKM": null,
+    "Attributes": { "GooglePlaceId": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw", "Abbreviation": "US", "RegionType": "state" },
+    "CanonicalPaths": { "en": "united-states", "fr": "etats-unis" }
+  }
+]

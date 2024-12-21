@@ -1,0 +1,175 @@
+[
+  {
+    "icon": "flaticon-addon-airportpickup",
+    "title": "DASHBOARD.ADDONS.AIRPORT_PICKUP",
+    "description": "DASHBOARD.ADDONS.AIRPORT_PICKUP_DESC",
+    "type": "airport_pickup",
+    "is_daily": false,
+    "id": 24,
+    "suggestedPrice": 75
+  },
+  {
+    "icon": "flaticon-linens",
+    "title": "DASHBOARD.ADDONS.BEDDING_LINENS",
+    "description": "DASHBOARD.ADDONS.BEDDING_LINENS_DESC",
+    "type": "bedding_and_linens",
+    "is_daily": false,
+    "id": 4
+  },
+  {
+    "icon": "flaticon-gps",
+    "title": "DASHBOARD.ADDONS.PORTABLE_GPS",
+    "description": null,
+    "type": "portable_gps",
+    "is_daily": false,
+    "id": 8,
+    "suggestedPrice": 10
+  },
+  {
+    "icon": "flaticon-bicycle",
+    "title": "DASHBOARD.ADDONS.BIKE_RACK",
+    "description": null,
+    "type": "bike_rack",
+    "is_daily": false,
+    "id": 5,
+    "suggestedPrice": 10
+  },
+  {
+    "icon": "flaticon-addon-grill",
+    "title": "DASHBOARD.ADDONS.PORTABLE_BBQ",
+    "description": null,
+    "type": "portable_bbq",
+    "is_daily": false,
+    "id": 11,
+    "suggestedPrice": 30
+  },
+  {
+    "icon": "flaticon-generator",
+    "title": "DASHBOARD.ADDONS.PORTABLE_GENERATOR",
+    "description": null,
+    "is_daily": false,
+    "type": "portable_generator",
+    "id": 7
+  },
+  {
+    "icon": "flaticon-wifi",
+    "title": "DASHBOARD.ADDONS.WIFI",
+    "description": null,
+    "type": "wifi",
+    "is_daily": true,
+    "id": 12,
+    "suggestedPrice": 10
+  },
+  {
+    "icon": "flaticon-addon-custom",
+    "title": "DASHBOARD.ADDONS.CONVENIENCE_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CONVENIENCE_PACKAGE_DESC",
+    "type": "convenience_package",
+    "is_daily": true,
+    "id": 22
+  },
+  {
+    "icon": "flaticon-addon-propane",
+    "title": "DASHBOARD.ADDONS.PROPANE_REFILL",
+    "description": "DASHBOARD.ADDONS.PROPANE_REFILL_DESC",
+    "type": "prepay_propane_tank_refill",
+    "is_daily": false,
+    "id": 13
+  },
+  {
+    "icon": "flaticon-addon-fuel",
+    "title": "DASHBOARD.ADDONS.FUEL_REFILL_PREPAYMENT",
+    "description": "DASHBOARD.ADDONS.FUEL_REFILL_PREPAYMENT_DESC",
+    "type": "prepay_fuel_tank_refill",
+    "is_daily": false,
+    "id": 14
+  },
+  {
+    "icon": "flaticon-addon-septic",
+    "title": "DASHBOARD.ADDONS.EMPTYING_SEPTIC_PREPAYMENT",
+    "description": "DASHBOARD.ADDONS.EMPTYING_SEPTIC_PREPAYMENT_DESC",
+    "type": "prepay_sewage_emptying",
+    "is_daily": false,
+    "id": 15
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_1",
+    "is_daily": false,
+    "id": 28
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_2",
+    "is_daily": false,
+    "id": 29
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_3",
+    "is_daily": false,
+    "id": 30
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_4",
+    "is_daily": false,
+    "id": 31
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_5",
+    "is_daily": false,
+    "id": 32
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_6",
+    "is_daily": false,
+    "id": 34
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_7",
+    "is_daily": false,
+    "id": 35
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_8",
+    "is_daily": false,
+    "id": 36
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_9",
+    "is_daily": false,
+    "id": 37
+  },
+  {
+    "icon": "flaticon-generic-addon",
+    "title": "DASHBOARD.ADDONS.CUSTOM_PACKAGE",
+    "description": "DASHBOARD.ADDONS.CUSTOM_PACKAGE_DESC",
+    "type": "custom_package_10",
+    "is_daily": false,
+    "id": 38
+  }
+]

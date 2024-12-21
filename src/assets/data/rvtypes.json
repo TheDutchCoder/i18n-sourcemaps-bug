@@ -1,0 +1,4 @@
+{
+  "drivable": ["ClassA", "ClassB", "ClassC", "TruckCamper", "Campervan"],
+  "towable": ["FifthWheel", "SubTravelTrailer", "TentTrailer", "Hybrid", "ToyHauler", "MicroTrailer"]
+}

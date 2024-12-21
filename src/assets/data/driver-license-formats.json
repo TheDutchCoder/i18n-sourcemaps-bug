@@ -1,0 +1,67 @@
+{
+  "AB": {
+    "maxLength": 9,
+    "placeholder_en": "999999999 (Maximum 9 digits)",
+    "placeholder_fr": "999999999 (9 chiffres maximum)"
+  },
+  "BC": {
+    "maxLength": 7,
+    "placeholder_en": "999999 (Maximum 7 digits)",
+    "placeholder_fr": "999999 (7 chiffres maximum)"
+  },
+  "MB": {
+    "maxLength": 12,
+    "placeholder_en": "AKKKKAKXX9XX (12 characters)",
+    "placeholder_fr": "AKKKKAKXX9XX (12 caractères)"
+  },
+  "NB": {
+    "maxLength": 7,
+    "placeholder_en": "9999999 (Maximum 7 digits)",
+    "placeholder_fr": "9999999 (7 chiffres maximum)"
+  },
+  "NL": {
+    "maxLength": 10,
+    "placeholder_en": "A99999999 (10 characters)",
+    "placeholder_fr": "A99999999 (10 caractères)"
+  },
+  "NS": {
+    "maxLength": 14,
+    "placeholder_en": "AKKKK999999999 (Maximum 14 characters)",
+    "placeholder_fr": "AKKKK999999999 (Maximum 14 caractères)"
+  },
+  "NT": {
+    "maxLength": 6,
+    "placeholder_en": "999999 (Maximum 6 digits)",
+    "placeholder_fr": "999999 (6 chiffres maximum)"
+  },
+  "NU": {
+    "maxLength": 6,
+    "placeholder_en": "999999 (Maximum 6 digits)",
+    "placeholder_fr": "999999 (6 chiffres maximum)"
+  },
+  "ON": {
+    "maxLength": 15,
+    "placeholder_en": "A999999999999999 (15 characters)",
+    "placeholder_fr": "A999999999999999 (15 caractères)"
+  },
+  "PE": {
+    "maxLength": 6,
+    "placeholder_en": "999999 (Maximum 6 digits)",
+    "placeholder_fr": "999999 (6 chiffres maximum)"
+  },
+  "QC": {
+    "maxLength": 13,
+    "placeholder_en": "A9999999999X9 (13 characters)",
+    "placeholder_fr": "A9999999999X9 (13 caractères)"
+  },
+  "SK": {
+    "maxLength": 8,
+    "placeholder_en": "99999999 (8 digits)",
+    "placeholder_fr": "99999999 (8 chiffres)"
+  },
+  "YT": {
+    "maxLength": 6,
+    "placeholder_en": "999999 (Maximum 6 digits)",
+    "placeholder_fr": "999999 (6 chiffres maximum)"
+  }
+}

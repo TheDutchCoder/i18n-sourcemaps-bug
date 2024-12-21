@@ -1,0 +1,87 @@
+[
+  {
+    "Id": 0,
+    "Content": "popularReviews.review1",
+    "CreatedAt": "",
+    "Position": "user.position.superOwner",
+    "Rating": 5,
+    "OverallRating": 5,
+    "Photos": [],
+    "Reviewer": {
+      "Avatar": "https://cdn-s.rvezy.com/web-app/reviews/1/user-1.jpg",
+      "FirstName": "John",
+      "LastName": "W",
+      "Id": 0
+    },
+    "ReviewType": "Regular",
+    "RVDelivered": false
+  },
+  {
+    "Id": 1,
+    "Content": "popularReviews.review2",
+    "CreatedAt": "",
+    "Position": "user.position.owner",
+    "Rating": 5,
+    "OverallRating": 5,
+    "Photos": [],
+    "Reviewer": {
+      "Avatar": "https://cdn-s.rvezy.com/web-app/reviews/2/user-2.jpg",
+      "FirstName": "Tim & Stephanie",
+      "LastName": "",
+      "Id": 1
+    },
+    "ReviewType": "Regular",
+    "RVDelivered": false
+  },
+  {
+    "Id": 2,
+    "Content": "popularReviews.review3",
+    "CreatedAt": "",
+    "Position": "user.position.owner",
+    "Rating": 5,
+    "OverallRating": 5,
+    "Photos": [],
+    "Reviewer": {
+      "Avatar": "https://cdn-s.rvezy.com/web-app/reviews/3/user-3.jpg",
+      "FirstName": "Matt",
+      "LastName": "S",
+      "Id": 2
+    },
+    "ReviewType": "Regular",
+    "RVDelivered": false
+  },
+  {
+    "Id": 3,
+    "Content": "popularReviews.review4",
+    "CreatedAt": "",
+    "Position": "user.position.renter",
+    "Rating": 5,
+    "OverallRating": 5,
+    "Photos": [],
+    "Reviewer": {
+      "Avatar": "https://cdn-s.rvezy.com/web-app/reviews/4/user-4.jpg",
+      "FirstName": "Maria",
+      "LastName": "S",
+      "Id": 3
+    },
+    "ReviewType": "Regular",
+    "RVDelivered": false
+  },
+  {
+    "Id": 4,
+    "Content": "popularReviews.review5",
+    "CreatedAt": "",
+    "Position": "user.position.superRenter",
+    "Rating": 5,
+    "OverallRating": 5,
+    "Photos": [],
+    "Reviewer": {
+      "Avatar": "https://cdn-s.rvezy.com/web-app/reviews/5/user-5.jpg",
+      "FirstName": "Joanne",
+      "LastName": "L",
+      "Id": 4
+    },
+    "ReviewType": "Regular",
+    "RVDelivered": false
+  }
+]
